@@ -5,8 +5,8 @@ all device status as follows -
 <code>[{"d1":1},{"d2":1},{"d3":1},{"d4":0},{"d5":0},{"d6":0},{"d7":0},{"d8":0}]</code>
  */
 
-#define SSID      "Praveen ACT"
-#define PASSWORD  "8041693017"
+#define SSID      "Wifi Access point"
+#define PASSWORD  "PASSWORD"
 #define NO_OF_DEVICES 8
 
 #include <uartWIFIUNO.h>
